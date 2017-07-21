@@ -1,0 +1,20 @@
+#Slack/*h1*/{
+font-family: 'Lobster', cursive;
+}
+
+.container1{
+	/*background: yellow url("index.png")*/
+	background: black;
+	color: white;
+	/*margin: 50px 50px;
+	padding: 50px;*/
+}
+
+li#link{
+	color: white;
+}
+
+#hello:hover{
+	background: black;
+	color: black;
+}
