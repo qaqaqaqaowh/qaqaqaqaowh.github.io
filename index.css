@@ -2,8 +2,13 @@
 font-family: 'Lobster', cursive;
 }
 
+.master{
+	color: white;
+	background: purple;
+}
+
 .container1{
-	/*background: yellow url("index.png")*/
+	/*background: yellow url("index.png");*/
 	background: black;
 	color: white;
 	/*margin: 50px 50px;
@@ -18,3 +23,4 @@ li#link{
 	background: black;
 	color: black;
 }
+
