@@ -1,26 +1,63 @@
-#Slack/*h1*/{
-font-family: 'Lobster', cursive;
+#Slack{
+	text-align: center;
+	font-family: 'Marck Script', cursive;
+}
+
+h1{
+	text-align: center;
 }
 
 .master{
+	font-family: 'Josefin Slab', serif;
 	color: white;
-	background: purple;
+	background: rgb(3, 23, 69);
+	padding-bottom: 50px;
+}
+
+.container0{
+	text-align: center;
+	color: white;
+	margin-right: 600px;
+	margin-bottom: -20px;
+	margin-left: 600px;
 }
 
 .container1{
 	/*background: yellow url("index.png");*/
-	background: black;
+	text-align: center;
+	background: rgb(3, 23, 49);
 	color: white;
+	padding-top: 15px;
+	padding-right: 135px;
+	padding-bottom: 15px;
+	padding-left: 100px;
+	margin-left: 150px;
+	margin-right: 150px;
+	font-size: 150%;
 	/*margin: 50px 50px;
 	padding: 50px;*/
 }
 
-li#link{
+.container2{
+	background: rgb(49, 23, 49);
+}
+
+.container3{
+	background: rgb(39, 13, 39);
+}
+
+#id:hover{
+	background: black;
 	color: white;
 }
 
 #hello:hover{
-	background: black;
-	color: black;
+	margin-right: 575px;
+	margin-left: 575px;
+	background: rgb(0, 13, 39);
+	color: white;
 }
 
+#hidden{
+	color: rgb(3, 23, 69);
+}
