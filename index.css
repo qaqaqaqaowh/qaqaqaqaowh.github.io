@@ -7,6 +7,12 @@ h1{
 	text-align: center;
 }
 
+.containers{
+	background: rgb(3, 23, 69);
+	width: 500px;
+	height: 500px;
+}
+
 .master{
 	font-family: 'Josefin Slab', serif;
 	color: white;
@@ -73,4 +79,22 @@ h1{
 
 #hidden{
 	color: rgb(3, 23, 69);
+}
+
+#trigger{
+	color: purple;
+	font-size: 300%;
+	font-family: 'Marck Script', cursive;
+	background: rgb(3, 23, 59);
+	text-align: center;
+	margin-left: 450px;
+	margin-right: 450px;
+}
+
+#containers{
+	display: none;
+}
+
+#content{
+	display: none;
 }

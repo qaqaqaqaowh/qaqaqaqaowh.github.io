@@ -1,0 +1,9 @@
+$(document).ready(function(){
+    $("#trigger").click(function(){
+        $(this).hide(function(){
+        	$("#containers").slideDown(function(){
+        		$("#content").fadeIn("slow");
+        	});
+        });
+    });
+});
